@@ -11,5 +11,5 @@ eureka:
 
 security:
   user:
-    name: ${EUREKA_USER_NAME}
-    password: ${EUREKA_PASSWORD}
+    name: ${EUREKA_USER_NAME:mattcho}
+    password: ${EUREKA_PASSWORD:oiof7i98}
